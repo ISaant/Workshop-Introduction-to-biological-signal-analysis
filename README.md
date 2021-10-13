@@ -1,7 +1,7 @@
 # Workshop:Introduction to biological signal analysis 
 
 ## Welcome!!
-In this repositories you will find 3 files and 2 C folders containing examples of the topics seen in the workshop. 
+In this repositories you will find 3 files and 2 folders containing examples of the topics seen in the workshop. 
 
 ## Files: 
 ### Nyquist Theorem.ipynb
