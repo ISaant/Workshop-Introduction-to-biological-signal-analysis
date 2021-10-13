@@ -19,4 +19,4 @@ Part Three: Pattern Recognition
 It only contain supporting images for the examples 
 
 ### Signals:
-As its name implies, it contains biological signals, specifically ECG and PCG, sampled at 4069Hz. Records begin with an "n" for normal recordings and "r" for pathology records, and end with an "E" or "P" to differentiate between ECG and PCG recordings. 
+As its name implies, it contains biological signals, specifically ECG and PCG, sampled at 4096Hz. Records begin with an "n" for normal recordings and "r" for pathology records, and end with an "E" or "P" to differentiate between ECG and PCG recordings. 
